@@ -2,3 +2,4 @@ aws-cdk.aws-ec2
 aws-cdk.aws-s3
 aws-cdk.core
 bridgecrew
+numpy>=1.22.2 # not directly required, pinned by Snyk to avoid a vulnerability
